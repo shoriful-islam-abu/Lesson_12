@@ -1,1 +1,1 @@
-# Lesson_12
+This is Master Branch with a HTML template only.
